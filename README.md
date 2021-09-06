@@ -76,6 +76,7 @@ CONCLUSIONES:
 RECOMENDACIONES:
 
 BIBLIOGRAFIA:
+
 Bibdigital. (s.f.). Generalidades. Obtenido de Onda senoidal : https://bibdigital.epn.edu.ec/bitstream/15000/2538/1/CD-0375.pdf
 
 EcuRed. (s.f.). Onda senoidal. Obtenido de https://www.ecured.cu/Onda_senoidal
