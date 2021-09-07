@@ -9,15 +9,15 @@ PRÁCTICA No. 8 CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 OBJETIVO GENERAL
  
-Desarrollar conocimientos teóricos sobre senoides, tanto sus definiciones como sus características y ponerlas en práctica en la implementación de circuitos para la exposición del laboratorio.    
+• Desarrollar conocimientos teóricos sobre senoides, tanto sus definiciones como sus características y ponerlas en práctica en la implementación de circuitos para la exposición del laboratorio.    
 
 OBJETIVOS ESPECIFICOS 
 
-Describir las características de las señales senoidales.
+• Describir las características de las señales senoidales.
 
-Familiarizarse con cada subtema y analizar su correcta funcionalidad.
+• Familiarizarse con cada subtema y analizar su correcta funcionalidad.
 
-Realizar los circuitos con la ayuda de todos los conocimientos aprendidos. 
+• Realizar los circuitos con la ayuda de todos los conocimientos aprendidos. 
  
  MARCO TEORICO 
 
