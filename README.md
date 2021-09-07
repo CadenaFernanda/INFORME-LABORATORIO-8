@@ -80,8 +80,6 @@ CONCLUSIONES: *
 
 * Los osciloscopios comprueban y muestran las señales de tensión como formas de onda y como representaciones visuales de la variación de tensión en función del tiempo. Las señales se representan en un gráfico, que muestra cómo cambia la señal. El eje vertical (Y) representa la medición de la tensión, y el eje horizontal (X) representa el tiempo.
 
-* A pesar de sus múltiples usos, el osciloscopio sirve para dar dos mediciones fundamentales tensión y tiempo.
-
 * La altura de las señales observadas en la pantalla, se gobierna manipulando los controles del bloque vertical.
 
 * El ancho de las señales observadas en la pantalla, se controlan manipulando los controles del bloque horizontal.
