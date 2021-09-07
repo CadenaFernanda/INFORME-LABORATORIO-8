@@ -76,9 +76,25 @@ f: _____________(Hz)
 _______________________________________________ 
 
 
-CONCLUSIONES:
-*
-RECOMENDACIONES:
+CONCLUSIONES: *
+
+* Los osciloscopios comprueban y muestran las señales de tensión como formas de onda y como representaciones visuales de la variación de tensión en función del tiempo. Las señales se representan en un gráfico, que muestra cómo cambia la señal. El eje vertical (Y) representa la medición de la tensión, y el eje horizontal (X) representa el tiempo.
+
+* A pesar de sus múltiples usos, el osciloscopio sirve para dar dos mediciones fundamentales tensión y tiempo.
+
+* La altura de las señales observadas en la pantalla, se gobierna manipulando los controles del bloque vertical.
+
+* El ancho de las señales observadas en la pantalla, se controlan manipulando los controles del bloque horizontal.
+
+* La estabilidad de la imagen en la pantalla se logra manipulando los controles del bloque de sincronismo.
+
+* El procedimiento de cálculo del valor de la indicación del osciloscopio, es similar al de todos los medios de medición.
+
+RECOMENDACIONES: *
+
+*Saber utilizar de manera correcta los simuladores que se emplean, para tener conocimiento de como usar cada tipo de instrumento y sobre todo saber interpretar los valores obtenidos en los mismos. 
+
+*Poner atención en cada detalle al momento de hacer la simulacion del circuito, para comprender, interpretar y evitar en gran medida cometer algún tipo de error en la simlación.
 
 BIBLIOGRAFIA:
 
