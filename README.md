@@ -64,6 +64,9 @@ Generalmente, la corriente alterna se refiere a la forma en la cual la electrici
 
 ![image](https://user-images.githubusercontent.com/84427371/132295928-8681c29d-2220-4c7c-acf3-5d9b5789acc1.png)
 
+# link
+
+https://youtu.be/F3G1-niWuv8
 
 
 # CONCLUSIONES: 
